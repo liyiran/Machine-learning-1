@@ -1,11 +1,11 @@
 # CSCI 567 Machine Learning
-
+[![Build Status](https://travis-ci.org/liyiran/Machine-learning-1.svg?branch=master)](https://travis-ci.org/liyiran/Machine-learning-1)
 ## Programming Assignment 1
 
 In this programming assignment, you will practice some of the learning algorithms that were discussed in class. In particular, you will implement a k-Nearest Neighbor (kNN) classifier, Perceptron algorithm and Linear Regression and evaluate them.You will see how a machine learning pipeline is set up in general and how models are evaluated.
 
 We have written a code execution pipeline for you in the form of jupyter notebook. You will have to complete the `Classes` and `Functions` as instructed in the jupyter notebook
-
+                   
 ### Setup
 
 This assignment is to be in python3 (&gt;3.4). Make sure you have the correct version installed. You will also need following python packages :
